@@ -5,6 +5,11 @@
 - Envoie des logs d'ouverture des instances.
 
 
+## Thecno required
+- RabbitMQ
+- Redis
+
+
 ##Développeur
 - Backend réalisé par moi même :p (https://twitter.com/Mathieu_DevTLS)
 
