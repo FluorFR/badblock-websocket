@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "MyApp\\": "src"
+        }
+    },
+    "require": {
+        "php-amqplib/php-amqplib": "^2.8",
+        "predis/predis": "^1.1",
+        "cboden/ratchet": "^0.4.1"
+    }
+}
